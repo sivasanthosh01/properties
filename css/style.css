@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+section{
+	text-align:center;
+}
+.color{
+	color:#ebeb09;
+	background-color:#7a7a35;
+	display:inline;
+}
+.height{
+		line-height:2;
+}
+.word{
+		word-spacing:15px;
+}
+.letter{
+	letter-spacing:5px;
+}
+.transform{
+	text-transform:uppercase;
+}
+.form{
+	text-transform:lowercase;
+}
+.size{
+		font-size:30px;
+}
+.weight{
+		font-weight:900;
+}
+.family{
+		font-style:italic;
+}
